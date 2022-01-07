@@ -1,0 +1,24 @@
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/utils/uartstdio.c
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/stdbool.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/_ti_config.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/linkage.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/stdint.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/_stdint40.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/sys/stdint.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/sys/cdefs.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/sys/_types.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/machine/_types.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/machine/_stdint.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/sys/_stdint.h
+uartstdio.obj: E:/TI/CCS/install/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include/stdarg.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/inc/hw_ints.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/inc/hw_memmap.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/inc/hw_types.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/inc/hw_uart.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/driverlib/debug.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/driverlib/interrupt.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/driverlib/rom.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/driverlib/rom_map.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/driverlib/sysctl.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/driverlib/uart.h
+uartstdio.obj: E:/TI/TICEWARE\\ FOR\\ C\\ SIRIES/utils/uartstdio.h
